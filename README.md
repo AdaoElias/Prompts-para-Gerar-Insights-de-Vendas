@@ -5,10 +5,10 @@
 
 # Objetivos
 
-- [ ] I. Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] II. Transformar dados de vendas em informações relevantes para a fabricante
-- [ ] III. Quais são os produtos mais populares em cada país
-- [ ] IV. Como otimizar o processo de transporte e logística até o momento da venda
+I. Consolidar todas as bases de terceiros para realizar uma análise
+II. Transformar dados de vendas em informações relevantes para a fabricante
+III. Quais são os produtos mais populares em cada país
+IV. Como otimizar o processo de transporte e logística até o momento da venda
 
 # I. Consolidar todas as bases de terceiros para realizar uma análise.
 ![](data/processed_data/BaseDeDados.PNG)
